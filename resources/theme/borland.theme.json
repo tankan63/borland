@@ -8,5 +8,5 @@
   "ui": {
     "Button.background": "primaryRed"
   },
-  "editorScheme": "Borland.xml"
+  "editorScheme": "../../Borland.xml"
 }
