@@ -7,5 +7,6 @@
   },
   "ui": {
     "Button.background": "primaryRed"
-  }
+  },
+  "editorScheme": "Borland.xml"
 }
