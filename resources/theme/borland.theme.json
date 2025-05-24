@@ -3,10 +3,12 @@
   "author": "Tanay Mehra",
   "dark": true,
   "colors": {
-    "basicBackground": "#f75464"
+    " background": "#70AEFF"
   },
   "ui": {
-    "Button.background": "primaryRed"
-  },
-  "editorScheme": "Borland.xml"
+    "Button.background": "primaryRed",
+    "*": {
+      "background": "#003078"
+    }
+  }
 }
