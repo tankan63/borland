@@ -3,12 +3,33 @@
   "author": "Tanay Mehra",
   "dark": true,
   "colors": {
-    " background": "#70AEFF"
+    "darkblack": "#000000",
+    "darkwhite": "#a8a8a8",
+    "darkred": "#a80000",
+    "darkorange": "#a85700",
+    "darkyellow": "#a8a800",
+    "darkgreen": "#308800",
+    "darkcyan": "#00a8a8",
+    "darkblue": "#003078",
+    "darkmagenta": "#a800a8",
+    "darkscroll": "#004078",
+    "lightblack": "#575757",
+    "lightwhite": "#ffffff",
+    "lightred": "#ff5757",
+    "lightorange": "#ffa857",
+    "lightyellow": "#ffff57",
+    "lightgreen": "#57ff57",
+    "lightcyan": "#57ffff",
+    "lightblue": "#5757ff",
+    "lightmagenta": "#ff57ff",
+    "lightscroll": "#006078"
   },
   "ui": {
     "Button.background": "primaryRed",
     "*": {
-      "background": "#003078"
+      "background": "#003078",
+      "foreground": "#a8a800",
+      "selectionBackground": "#5757ff"
     }
   }
 }
