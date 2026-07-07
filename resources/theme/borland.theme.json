@@ -2,7 +2,7 @@
   "name": "Borland",
   "author": "Tanay Mehra",
   "dark": true,
-  "editorScheme": "/Borland.xml",
+  "editorScheme": "/theme/Borland.xml",
   "colors": {
     "darkblack": "#000000",
     "darkwhite": "#a8a8a8",
@@ -31,6 +31,14 @@
       "foreground": "darkyellow",
       "selectionBackground": "lightblue",
       "selectionForeground": "lightyellow"
+    },
+    "ScrollBar": {
+      "thumbColor": "darkscroll",
+      "hoverThumbColor": "lightscroll",
+      "Mac": {
+        "thumbColor": "darkscroll",
+        "hoverThumbColor": "lightscroll"
+      }
     }
   },
   "Editor": {
